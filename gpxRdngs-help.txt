@@ -1,0 +1,40 @@
+d:\ourData\progLan\python\dosApp>gpxrdngs -h
+usage: gpxRdngs.py [-h] -i INFILE
+                   [-o OUTFILE | -O ABSOUTFILE | -a | -A ALLMODE] [-s] [-b]
+                   [-x | -X] [-c] [-d] [-r] [-t] [-p {l,m,h}] [-q] [-v]
+                   [-T TTMODE] [-L LTMODE] [-H HTMODE] [-Z]
+
+process map route gpx (GPS Exchange Format xml) data
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INFILE, --input INFILE
+                        input filename (eg: d:\data\in.gpx)
+  -o OUTFILE, --output OUTFILE
+                        relative output filename (eg: out.txt)
+  -O ABSOUTFILE, --Output ABSOUTFILE
+                        full output filename path (eg: d:\out.txt)
+  -a, --auto            use output file derived from input file name
+  -A ALLMODE, --all ALLMODE
+                        process all files in directory (use wildcard filter)
+  -s, --stats           generate route statistics
+  -b, --bsv             generate bsv records
+  -x, --xmlbsv          generate gpx xml records from bsv records
+  -X, --xmlgpx          generate gpx xml records from gpx file
+  -c, --compact         generate compact gpx xml output (reduce file size)
+  -d, --delta           include delta values in bsv records
+  -r, --route           generate route gpx xml records from bsv records
+  -t, --time            ignore gpx time data
+  -p {l,m,h}, --precision {l,m,h}
+                        set national grid reference precision
+  -q, --quiet           suppress some program messages
+  -v, --verbose         generate additional program messages
+  -T TTMODE, --timetoler TTMODE
+                        way-point time delta tolerance (0: disable)
+  -L LTMODE, --lengthtoler LTMODE
+                        bsv length delta tolerance (0: disable)
+  -H HTMODE, --heighttoler HTMODE
+                        cumulative height gain/loss tolerance (0: disable)
+  -Z, --zerotoler       set all tolerances to zero initially
+
+d:\ourData\progLan\python\dosApp>
