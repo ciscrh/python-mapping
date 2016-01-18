@@ -1,0 +1,53 @@
+d:\ourData\progLan\python\dosApp>gpxrdngs -iy:miscellany\maproutes\2015\150807sm-grouseInn -v
+[15:45:01] gpxRdngs -- process gpx data read from file
+verbose mode set
+gpx way-point time delta tolerance: 12 sec
+way-point time delta mode discards closer adjacent readings
+bsv cumulative height gain/loss tolerance: 10m
+bsv cumulative height gain/loss mode ignores smaller values
+medium precision set (default)
+national grid reference precision is 10m
+info-gpxRdngs-args--assume input file 150807sm-grouseInn has .gpx extension
+input file: Y:\miscellany\maproutes\2015\150807sm-grouseInn.gpx
+name1  = User Track
+desc1  = Track 1
+gpx file way-point time tolerance = 12 sec
+gpx vertical tolerance = 10m
+>> create route statistics...
+
+GPX way-points processed  :  2903
+Way-points discarded (t)  :  2471
+Way-points retained       :   432
+Distance                  :     4.52km
+Max length delta          :    19.1m
+Max vertical delta        :   +13.0m
+Max time delta            :   234.0sec
+Height increments ignored :   392
+Adjusted height gain      :   101m
+Adjusted height loss      :    56m
+Start way-point elevation :   273.0m
+End way-point elevation   :   310.0m
+High way-point elevation  :   346.0m
+Low way-point elevation   :   261.0m
+Net height gain           :    37.0m
+Start-end separation (gpx):     3.16km
+Start timestamp           : 2015-08-07T11:19:56Z
+End timestamp             : 2015-08-07T13:08:25Z
+Elapsed time (H:M:S)      : 1:48:29
+
+GPX xml name tag          : User Track
+GPX xml desc tag          : Track 1
+Max Delta L (BSV)         :   400.0m
+Max Delta V (elevation)   :    30.0m
+Max Delta S (time)        :   250.0sec
+Reported height gain      :   207m
+Reported height loss      :   170m
+Precision (NGR)           :     8 digits
+Tolerance L (BSV)         :     5m
+Tolerance V (cumulative)  :    10m
+Tolerance T (way-point)   :    12sec
+
+
+[15:45:02] gpxRdngs ending normally (000.46sec)
+
+d:\ourData\progLan\python\dosApp>
