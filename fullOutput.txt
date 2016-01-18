@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="ASCII"?>
+<gpx creator="crhGPX" version="1.0">
+  <trk>
+    <name>User Track</name>
+    <desc>Track 1</desc>
+    <trkseg>
+      <trkpt lat="+053.29690" lon="-001.61444">
+        <ele>+0273.0</ele>
+        <time>2015-08-07T11:19:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.29686" lon="-001.61450">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:19:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.29674" lon="-001.61465">
+        <ele>+0295.0</ele>
+        <time>2015-08-07T11:20:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.29663" lon="-001.61479">
+        <ele>+0299.0</ele>
+        <time>2015-08-07T11:20:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.29653" lon="-001.61491">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T11:20:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.29642" lon="-001.61501">
+        <ele>+0301.0</ele>
+        <time>2015-08-07T11:20:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.29629" lon="-001.61515">
+        <ele>+0301.0</ele>
+        <time>2015-08-07T11:21:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.29616" lon="-001.61529">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T11:21:16Z</time>
+      </trkpt>
+      <trkpt lat="+053.29605" lon="-001.61539">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T11:21:28Z</time>
+      </trkpt>
+      <trkpt lat="+053.29596" lon="-001.61547">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T11:21:40Z</time>
+      </trkpt>
+      <trkpt lat="+053.29584" lon="-001.61559">
+        <ele>+0301.0</ele>
+        <time>2015-08-07T11:21:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.29571" lon="-001.61573">
+        <ele>+0298.0</ele>
+        <time>2015-08-07T11:22:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.29578" lon="-001.61593">
+        <ele>+0299.0</ele>
+        <time>2015-08-07T11:22:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.29584" lon="-001.61614">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T11:22:48Z</time>
+      </trkpt>
+      <trkpt lat="+053.29590" lon="-001.61638">
+        <ele>+0294.0</ele>
+        <time>2015-08-07T11:23:01Z</time>
+      </trkpt>
+      <trkpt lat="+053.29595" lon="-001.61657">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T11:23:13Z</time>
+      </trkpt>
+      <trkpt lat="+053.29602" lon="-001.61682">
+        <ele>+0290.0</ele>
+        <time>2015-08-07T11:23:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.29607" lon="-001.61704">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T11:23:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.29612" lon="-001.61723">
+        <ele>+0287.0</ele>
+        <time>2015-08-07T11:23:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.29615" lon="-001.61743">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T11:24:03Z</time>
+      </trkpt>
+      <trkpt lat="+053.29618" lon="-001.61765">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:24:15Z</time>
+      </trkpt>
+      <trkpt lat="+053.29622" lon="-001.61784">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:24:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.29615" lon="-001.61798">
+        <ele>+0274.0</ele>
+        <time>2015-08-07T11:24:40Z</time>
+      </trkpt>
+      <trkpt lat="+053.29604" lon="-001.61799">
+        <ele>+0272.0</ele>
+        <time>2015-08-07T11:24:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.29591" lon="-001.61799">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:25:05Z</time>
+      </trkpt>
+      <trkpt lat="+053.29580" lon="-001.61800">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:25:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.29565" lon="-001.61808">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:25:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.29551" lon="-001.61814">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:25:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.29541" lon="-001.61821">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:25:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.29530" lon="-001.61832">
+        <ele>+0271.0</ele>
+        <time>2015-08-07T11:26:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.29522" lon="-001.61847">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:26:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.29513" lon="-001.61856">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:26:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.29501" lon="-001.61862">
+        <ele>+0266.0</ele>
+        <time>2015-08-07T11:26:53Z</time>
+      </trkpt>
+      <trkpt lat="+053.29489" lon="-001.61861">
+        <ele>+0264.0</ele>
+        <time>2015-08-07T11:27:12Z</time>
+      </trkpt>
+      <trkpt lat="+053.29477" lon="-001.61861">
+        <ele>+0263.0</ele>
+        <time>2015-08-07T11:27:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.29470" lon="-001.61858">
+        <ele>+0264.0</ele>
+        <time>2015-08-07T11:27:50Z</time>
+      </trkpt>
+      <trkpt lat="+053.29462" lon="-001.61860">
+        <ele>+0264.0</ele>
+        <time>2015-08-07T11:28:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.29449" lon="-001.61877">
+        <ele>+0261.0</ele>
+        <time>2015-08-07T11:28:41Z</time>
+      </trkpt>
+      <trkpt lat="+053.29443" lon="-001.61891">
+        <ele>+0263.0</ele>
+        <time>2015-08-07T11:29:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.29432" lon="-001.61913">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:29:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.29438" lon="-001.61923">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:30:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.29442" lon="-001.61935">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:30:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.29448" lon="-001.61949">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:30:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.29456" lon="-001.61960">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:30:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.29466" lon="-001.61978">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:31:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.29476" lon="-001.61990">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:31:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.29480" lon="-001.62009">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:31:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.29483" lon="-001.62025">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:31:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.29483" lon="-001.62042">
+        <ele>+0268.0</ele>
+        <time>2015-08-07T11:32:00Z</time>
+      </trkpt>
+      <trkpt lat="+053.29480" lon="-001.62058">
+        <ele>+0268.0</ele>
+        <time>2015-08-07T11:32:12Z</time>
+      </trkpt>
+      <trkpt lat="+053.29474" lon="-001.62073">
+        <ele>+0269.0</ele>
+        <time>2015-08-07T11:32:25Z</time>
+      </trkpt>
+      <trkpt lat="+053.29468" lon="-001.62085">
+        <ele>+0270.0</ele>
+        <time>2015-08-07T11:32:38Z</time>
+      </trkpt>
+      <trkpt lat="+053.29462" lon="-001.62099">
+        <ele>+0271.0</ele>
+        <time>2015-08-07T11:32:53Z</time>
+      </trkpt>
+      <trkpt lat="+053.29449" lon="-001.62107">
+        <ele>+0273.0</ele>
+        <time>2015-08-07T11:33:07Z</time>
+      </trkpt>
+      <trkpt lat="+053.29438" lon="-001.62116">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:33:21Z</time>
+      </trkpt>
+      <trkpt lat="+053.29427" lon="-001.62124">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:33:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.29417" lon="-001.62129">
+        <ele>+0274.0</ele>
+        <time>2015-08-07T11:33:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.29406" lon="-001.62137">
+        <ele>+0273.0</ele>
+        <time>2015-08-07T11:33:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.29395" lon="-001.62139">
+        <ele>+0273.0</ele>
+        <time>2015-08-07T11:34:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.29383" lon="-001.62138">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:34:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.29373" lon="-001.62137">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:34:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.29362" lon="-001.62138">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:34:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.29351" lon="-001.62140">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:34:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.29340" lon="-001.62142">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:35:13Z</time>
+      </trkpt>
+      <trkpt lat="+053.29328" lon="-001.62151">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:35:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.29318" lon="-001.62161">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:35:38Z</time>
+      </trkpt>
+      <trkpt lat="+053.29305" lon="-001.62174">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:35:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.29293" lon="-001.62188">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:36:07Z</time>
+      </trkpt>
+      <trkpt lat="+053.29283" lon="-001.62199">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:36:19Z</time>
+      </trkpt>
+      <trkpt lat="+053.29274" lon="-001.62210">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:36:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.29263" lon="-001.62221">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:36:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.29250" lon="-001.62231">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:36:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.29240" lon="-001.62236">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:37:09Z</time>
+      </trkpt>
+      <trkpt lat="+053.29225" lon="-001.62245">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:37:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.29214" lon="-001.62253">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:37:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.29199" lon="-001.62260">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:37:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.29187" lon="-001.62266">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:37:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.29175" lon="-001.62273">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:38:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.29165" lon="-001.62283">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:38:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.29156" lon="-001.62304">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:38:37Z</time>
+      </trkpt>
+      <trkpt lat="+053.29150" lon="-001.62323">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:38:50Z</time>
+      </trkpt>
+      <trkpt lat="+053.29143" lon="-001.62340">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:39:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.29134" lon="-001.62357">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:39:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.29124" lon="-001.62372">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:39:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.29113" lon="-001.62388">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:39:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.29101" lon="-001.62402">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:39:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.29093" lon="-001.62414">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:40:09Z</time>
+      </trkpt>
+      <trkpt lat="+053.29082" lon="-001.62429">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:40:21Z</time>
+      </trkpt>
+      <trkpt lat="+053.29074" lon="-001.62447">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:40:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.29066" lon="-001.62461">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:40:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.29058" lon="-001.62478">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T11:40:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.29050" lon="-001.62494">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T11:41:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.29042" lon="-001.62514">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T11:41:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.29036" lon="-001.62535">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T11:41:36Z</time>
+      </trkpt>
+      <trkpt lat="+053.29031" lon="-001.62551">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T11:41:48Z</time>
+      </trkpt>
+      <trkpt lat="+053.29025" lon="-001.62572">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T11:42:00Z</time>
+      </trkpt>
+      <trkpt lat="+053.29016" lon="-001.62594">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:42:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.29009" lon="-001.62610">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:42:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.28999" lon="-001.62628">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:42:40Z</time>
+      </trkpt>
+      <trkpt lat="+053.28988" lon="-001.62634">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:42:53Z</time>
+      </trkpt>
+      <trkpt lat="+053.28976" lon="-001.62636">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:43:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28963" lon="-001.62634">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:43:19Z</time>
+      </trkpt>
+      <trkpt lat="+053.28951" lon="-001.62628">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:43:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.28937" lon="-001.62620">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:43:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.28922" lon="-001.62611">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:44:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.28909" lon="-001.62610">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:44:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.28898" lon="-001.62609">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:44:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.28892" lon="-001.62614">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:44:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.28883" lon="-001.62631">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:44:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.28873" lon="-001.62645">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:45:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.28863" lon="-001.62659">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:45:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.28853" lon="-001.62673">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:45:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28845" lon="-001.62685">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:45:43Z</time>
+      </trkpt>
+      <trkpt lat="+053.28833" lon="-001.62695">
+        <ele>+0274.0</ele>
+        <time>2015-08-07T11:45:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.28823" lon="-001.62705">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:46:45Z</time>
+      </trkpt>
+      <trkpt lat="+053.28814" lon="-001.62711">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:46:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.28801" lon="-001.62719">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:47:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.28791" lon="-001.62727">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:47:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.28779" lon="-001.62731">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:47:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.28768" lon="-001.62736">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:47:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.28757" lon="-001.62743">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:47:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.28746" lon="-001.62749">
+        <ele>+0276.0</ele>
+        <time>2015-08-07T11:48:12Z</time>
+      </trkpt>
+      <trkpt lat="+053.28734" lon="-001.62756">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:48:24Z</time>
+      </trkpt>
+      <trkpt lat="+053.28722" lon="-001.62762">
+        <ele>+0275.0</ele>
+        <time>2015-08-07T11:48:36Z</time>
+      </trkpt>
+      <trkpt lat="+053.28712" lon="-001.62768">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:48:49Z</time>
+      </trkpt>
+      <trkpt lat="+053.28700" lon="-001.62776">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:49:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.28688" lon="-001.62781">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:49:15Z</time>
+      </trkpt>
+      <trkpt lat="+053.28679" lon="-001.62786">
+        <ele>+0278.0</ele>
+        <time>2015-08-07T11:49:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.28670" lon="-001.62793">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:49:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.28659" lon="-001.62798">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:49:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.28648" lon="-001.62806">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:50:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.28638" lon="-001.62817">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:50:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.28628" lon="-001.62826">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:50:29Z</time>
+      </trkpt>
+      <trkpt lat="+053.28618" lon="-001.62834">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:50:41Z</time>
+      </trkpt>
+      <trkpt lat="+053.28608" lon="-001.62842">
+        <ele>+0279.0</ele>
+        <time>2015-08-07T11:50:53Z</time>
+      </trkpt>
+      <trkpt lat="+053.28604" lon="-001.62854">
+        <ele>+0277.0</ele>
+        <time>2015-08-07T11:54:36Z</time>
+      </trkpt>
+      <trkpt lat="+053.28601" lon="-001.62852">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:57:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.28595" lon="-001.62857">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:57:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.28585" lon="-001.62858">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:57:29Z</time>
+      </trkpt>
+      <trkpt lat="+053.28576" lon="-001.62856">
+        <ele>+0280.0</ele>
+        <time>2015-08-07T11:57:41Z</time>
+      </trkpt>
+      <trkpt lat="+053.28564" lon="-001.62850">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:57:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28553" lon="-001.62843">
+        <ele>+0281.0</ele>
+        <time>2015-08-07T11:58:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28543" lon="-001.62836">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:58:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28535" lon="-001.62829">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:58:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28527" lon="-001.62823">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:58:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28516" lon="-001.62815">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T11:58:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28507" lon="-001.62809">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T11:59:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28498" lon="-001.62804">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T11:59:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28491" lon="-001.62797">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:59:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28483" lon="-001.62790">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:59:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28476" lon="-001.62785">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T11:59:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28467" lon="-001.62781">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T12:00:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28458" lon="-001.62777">
+        <ele>+0282.0</ele>
+        <time>2015-08-07T12:00:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28449" lon="-001.62775">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T12:00:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28440" lon="-001.62774">
+        <ele>+0283.0</ele>
+        <time>2015-08-07T12:00:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28430" lon="-001.62774">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T12:00:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28421" lon="-001.62773">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T12:01:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28411" lon="-001.62772">
+        <ele>+0284.0</ele>
+        <time>2015-08-07T12:01:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28400" lon="-001.62772">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:01:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.28390" lon="-001.62773">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:01:43Z</time>
+      </trkpt>
+      <trkpt lat="+053.28379" lon="-001.62768">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:01:55Z</time>
+      </trkpt>
+      <trkpt lat="+053.28374" lon="-001.62765">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:02:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.28368" lon="-001.62760">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:05:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.28360" lon="-001.62754">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:05:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.28354" lon="-001.62749">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:06:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.28346" lon="-001.62742">
+        <ele>+0285.0</ele>
+        <time>2015-08-07T12:06:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.28339" lon="-001.62736">
+        <ele>+0286.0</ele>
+        <time>2015-08-07T12:06:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.28333" lon="-001.62730">
+        <ele>+0287.0</ele>
+        <time>2015-08-07T12:06:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.28324" lon="-001.62722">
+        <ele>+0287.0</ele>
+        <time>2015-08-07T12:06:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.28316" lon="-001.62712">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:07:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.28306" lon="-001.62703">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:07:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.28298" lon="-001.62692">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:07:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.28289" lon="-001.62684">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:07:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.28280" lon="-001.62674">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:07:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.28272" lon="-001.62663">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:08:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.28265" lon="-001.62655">
+        <ele>+0287.0</ele>
+        <time>2015-08-07T12:08:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.28266" lon="-001.62648">
+        <ele>+0287.0</ele>
+        <time>2015-08-07T12:08:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.28257" lon="-001.62639">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:09:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28249" lon="-001.62629">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:09:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28242" lon="-001.62620">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:10:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28236" lon="-001.62613">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:10:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28230" lon="-001.62605">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:10:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28228" lon="-001.62617">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:11:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28228" lon="-001.62603">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:11:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28221" lon="-001.62592">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:11:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28215" lon="-001.62581">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:12:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28209" lon="-001.62572">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:12:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28201" lon="-001.62563">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:12:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28193" lon="-001.62552">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:12:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28185" lon="-001.62546">
+        <ele>+0288.0</ele>
+        <time>2015-08-07T12:12:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28177" lon="-001.62541">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:13:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28169" lon="-001.62537">
+        <ele>+0290.0</ele>
+        <time>2015-08-07T12:13:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28159" lon="-001.62536">
+        <ele>+0291.0</ele>
+        <time>2015-08-07T12:13:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28151" lon="-001.62538">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:13:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28139" lon="-001.62540">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:13:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28128" lon="-001.62541">
+        <ele>+0293.0</ele>
+        <time>2015-08-07T12:14:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28119" lon="-001.62541">
+        <ele>+0294.0</ele>
+        <time>2015-08-07T12:14:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.28111" lon="-001.62537">
+        <ele>+0293.0</ele>
+        <time>2015-08-07T12:14:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.28102" lon="-001.62535">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:14:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.28094" lon="-001.62527">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:14:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.28089" lon="-001.62521">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:15:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.28093" lon="-001.62509">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:17:29Z</time>
+      </trkpt>
+      <trkpt lat="+053.28088" lon="-001.62501">
+        <ele>+0286.0</ele>
+        <time>2015-08-07T12:17:50Z</time>
+      </trkpt>
+      <trkpt lat="+053.28078" lon="-001.62500">
+        <ele>+0289.0</ele>
+        <time>2015-08-07T12:18:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.28066" lon="-001.62490">
+        <ele>+0291.0</ele>
+        <time>2015-08-07T12:18:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.28057" lon="-001.62482">
+        <ele>+0291.0</ele>
+        <time>2015-08-07T12:18:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.28046" lon="-001.62472">
+        <ele>+0292.0</ele>
+        <time>2015-08-07T12:18:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.28037" lon="-001.62464">
+        <ele>+0291.0</ele>
+        <time>2015-08-07T12:18:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.28029" lon="-001.62453">
+        <ele>+0291.0</ele>
+        <time>2015-08-07T12:19:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.28021" lon="-001.62443">
+        <ele>+0293.0</ele>
+        <time>2015-08-07T12:19:16Z</time>
+      </trkpt>
+      <trkpt lat="+053.28016" lon="-001.62437">
+        <ele>+0296.0</ele>
+        <time>2015-08-07T12:21:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.28010" lon="-001.62428">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T12:21:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.28004" lon="-001.62418">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T12:21:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.27997" lon="-001.62409">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T12:22:03Z</time>
+      </trkpt>
+      <trkpt lat="+053.27989" lon="-001.62400">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T12:22:16Z</time>
+      </trkpt>
+      <trkpt lat="+053.27982" lon="-001.62393">
+        <ele>+0296.0</ele>
+        <time>2015-08-07T12:22:28Z</time>
+      </trkpt>
+      <trkpt lat="+053.27976" lon="-001.62385">
+        <ele>+0296.0</ele>
+        <time>2015-08-07T12:22:41Z</time>
+      </trkpt>
+      <trkpt lat="+053.27971" lon="-001.62374">
+        <ele>+0296.0</ele>
+        <time>2015-08-07T12:22:53Z</time>
+      </trkpt>
+      <trkpt lat="+053.27967" lon="-001.62365">
+        <ele>+0297.0</ele>
+        <time>2015-08-07T12:23:05Z</time>
+      </trkpt>
+      <trkpt lat="+053.27961" lon="-001.62354">
+        <ele>+0298.0</ele>
+        <time>2015-08-07T12:23:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.27958" lon="-001.62340">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T12:23:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.27956" lon="-001.62325">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T12:23:43Z</time>
+      </trkpt>
+      <trkpt lat="+053.27954" lon="-001.62311">
+        <ele>+0300.0</ele>
+        <time>2015-08-07T12:23:55Z</time>
+      </trkpt>
+      <trkpt lat="+053.27954" lon="-001.62295">
+        <ele>+0301.0</ele>
+        <time>2015-08-07T12:24:07Z</time>
+      </trkpt>
+      <trkpt lat="+053.27953" lon="-001.62284">
+        <ele>+0301.0</ele>
+        <time>2015-08-07T12:24:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.27949" lon="-001.62271">
+        <ele>+0302.0</ele>
+        <time>2015-08-07T12:24:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.27946" lon="-001.62258">
+        <ele>+0302.0</ele>
+        <time>2015-08-07T12:24:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.27942" lon="-001.62248">
+        <ele>+0303.0</ele>
+        <time>2015-08-07T12:24:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.27939" lon="-001.62238">
+        <ele>+0303.0</ele>
+        <time>2015-08-07T12:25:09Z</time>
+      </trkpt>
+      <trkpt lat="+053.27934" lon="-001.62229">
+        <ele>+0303.0</ele>
+        <time>2015-08-07T12:25:21Z</time>
+      </trkpt>
+      <trkpt lat="+053.27928" lon="-001.62220">
+        <ele>+0303.0</ele>
+        <time>2015-08-07T12:25:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.27923" lon="-001.62211">
+        <ele>+0305.0</ele>
+        <time>2015-08-07T12:25:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.27914" lon="-001.62204">
+        <ele>+0306.0</ele>
+        <time>2015-08-07T12:25:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.27907" lon="-001.62196">
+        <ele>+0307.0</ele>
+        <time>2015-08-07T12:26:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.27903" lon="-001.62192">
+        <ele>+0307.0</ele>
+        <time>2015-08-07T12:26:30Z</time>
+      </trkpt>
+      <trkpt lat="+053.27895" lon="-001.62185">
+        <ele>+0307.0</ele>
+        <time>2015-08-07T12:26:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.27887" lon="-001.62180">
+        <ele>+0308.0</ele>
+        <time>2015-08-07T12:26:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.27879" lon="-001.62172">
+        <ele>+0308.0</ele>
+        <time>2015-08-07T12:27:07Z</time>
+      </trkpt>
+      <trkpt lat="+053.27872" lon="-001.62162">
+        <ele>+0309.0</ele>
+        <time>2015-08-07T12:27:19Z</time>
+      </trkpt>
+      <trkpt lat="+053.27865" lon="-001.62147">
+        <ele>+0309.0</ele>
+        <time>2015-08-07T12:27:38Z</time>
+      </trkpt>
+      <trkpt lat="+053.27860" lon="-001.62132">
+        <ele>+0312.0</ele>
+        <time>2015-08-07T12:27:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.27856" lon="-001.62123">
+        <ele>+0314.0</ele>
+        <time>2015-08-07T12:28:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.27848" lon="-001.62112">
+        <ele>+0313.0</ele>
+        <time>2015-08-07T12:28:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.27841" lon="-001.62103">
+        <ele>+0312.0</ele>
+        <time>2015-08-07T12:28:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.27833" lon="-001.62100">
+        <ele>+0313.0</ele>
+        <time>2015-08-07T12:28:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.27825" lon="-001.62095">
+        <ele>+0315.0</ele>
+        <time>2015-08-07T12:29:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.27817" lon="-001.62088">
+        <ele>+0315.0</ele>
+        <time>2015-08-07T12:29:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.27810" lon="-001.62080">
+        <ele>+0317.0</ele>
+        <time>2015-08-07T12:29:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.27804" lon="-001.62077">
+        <ele>+0317.0</ele>
+        <time>2015-08-07T12:29:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.27798" lon="-001.62084">
+        <ele>+0317.0</ele>
+        <time>2015-08-07T12:29:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.27785" lon="-001.62099">
+        <ele>+0317.0</ele>
+        <time>2015-08-07T12:30:25Z</time>
+      </trkpt>
+      <trkpt lat="+053.27771" lon="-001.62099">
+        <ele>+0321.0</ele>
+        <time>2015-08-07T12:31:19Z</time>
+      </trkpt>
+      <trkpt lat="+053.27760" lon="-001.62087">
+        <ele>+0323.0</ele>
+        <time>2015-08-07T12:31:49Z</time>
+      </trkpt>
+      <trkpt lat="+053.27754" lon="-001.62071">
+        <ele>+0324.0</ele>
+        <time>2015-08-07T12:32:25Z</time>
+      </trkpt>
+      <trkpt lat="+053.27746" lon="-001.62063">
+        <ele>+0326.0</ele>
+        <time>2015-08-07T12:32:37Z</time>
+      </trkpt>
+      <trkpt lat="+053.27742" lon="-001.62056">
+        <ele>+0326.0</ele>
+        <time>2015-08-07T12:33:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.27753" lon="-001.62058">
+        <ele>+0327.0</ele>
+        <time>2015-08-07T12:33:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.27751" lon="-001.62051">
+        <ele>+0329.0</ele>
+        <time>2015-08-07T12:33:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.27741" lon="-001.62038">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T12:35:45Z</time>
+      </trkpt>
+      <trkpt lat="+053.27733" lon="-001.62031">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T12:35:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.27735" lon="-001.62036">
+        <ele>+0332.0</ele>
+        <time>2015-08-07T12:37:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.27730" lon="-001.62037">
+        <ele>+0333.0</ele>
+        <time>2015-08-07T12:37:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.27737" lon="-001.62019">
+        <ele>+0330.0</ele>
+        <time>2015-08-07T12:38:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.27729" lon="-001.62000">
+        <ele>+0330.0</ele>
+        <time>2015-08-07T12:38:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.27716" lon="-001.61992">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T12:38:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.27708" lon="-001.61986">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T12:39:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.27702" lon="-001.61981">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T12:39:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.27698" lon="-001.61972">
+        <ele>+0333.0</ele>
+        <time>2015-08-07T12:39:50Z</time>
+      </trkpt>
+      <trkpt lat="+053.27695" lon="-001.61966">
+        <ele>+0335.0</ele>
+        <time>2015-08-07T12:40:09Z</time>
+      </trkpt>
+      <trkpt lat="+053.27689" lon="-001.61960">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:40:21Z</time>
+      </trkpt>
+      <trkpt lat="+053.27687" lon="-001.61952">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:40:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.27685" lon="-001.61941">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:40:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.27683" lon="-001.61930">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:41:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.27680" lon="-001.61923">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:41:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.27674" lon="-001.61916">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:41:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.27669" lon="-001.61906">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:41:38Z</time>
+      </trkpt>
+      <trkpt lat="+053.27662" lon="-001.61893">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:41:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.27656" lon="-001.61883">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:42:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.27652" lon="-001.61877">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:42:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.27643" lon="-001.61868">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:42:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.27635" lon="-001.61858">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:42:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.27628" lon="-001.61849">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:43:05Z</time>
+      </trkpt>
+      <trkpt lat="+053.27620" lon="-001.61841">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:43:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.27615" lon="-001.61830">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:43:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.27613" lon="-001.61817">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:43:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.27605" lon="-001.61803">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:44:00Z</time>
+      </trkpt>
+      <trkpt lat="+053.27596" lon="-001.61794">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:44:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.27588" lon="-001.61791">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:44:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.27576" lon="-001.61790">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:44:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.27566" lon="-001.61783">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:44:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.27559" lon="-001.61773">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:45:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.27549" lon="-001.61762">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:45:17Z</time>
+      </trkpt>
+      <trkpt lat="+053.27539" lon="-001.61754">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:45:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.27531" lon="-001.61738">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:45:43Z</time>
+      </trkpt>
+      <trkpt lat="+053.27524" lon="-001.61721">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:45:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.27514" lon="-001.61715">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:46:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.27506" lon="-001.61710">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:46:26Z</time>
+      </trkpt>
+      <trkpt lat="+053.27500" lon="-001.61698">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:46:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.27489" lon="-001.61696">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:46:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.27479" lon="-001.61691">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:47:04Z</time>
+      </trkpt>
+      <trkpt lat="+053.27467" lon="-001.61678">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:47:24Z</time>
+      </trkpt>
+      <trkpt lat="+053.27459" lon="-001.61672">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:47:37Z</time>
+      </trkpt>
+      <trkpt lat="+053.27451" lon="-001.61666">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T12:47:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.27443" lon="-001.61654">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:48:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.27433" lon="-001.61642">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T12:48:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.27426" lon="-001.61630">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:48:38Z</time>
+      </trkpt>
+      <trkpt lat="+053.27419" lon="-001.61620">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:48:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.27412" lon="-001.61608">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:49:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.27406" lon="-001.61604">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:49:18Z</time>
+      </trkpt>
+      <trkpt lat="+053.27399" lon="-001.61598">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:49:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.27395" lon="-001.61583">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:49:45Z</time>
+      </trkpt>
+      <trkpt lat="+053.27389" lon="-001.61567">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:49:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.27382" lon="-001.61555">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:50:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.27373" lon="-001.61543">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:50:39Z</time>
+      </trkpt>
+      <trkpt lat="+053.27364" lon="-001.61534">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T12:50:52Z</time>
+      </trkpt>
+      <trkpt lat="+053.27357" lon="-001.61522">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:51:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.27350" lon="-001.61509">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:51:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.27343" lon="-001.61496">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:51:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.27335" lon="-001.61487">
+        <ele>+0341.0</ele>
+        <time>2015-08-07T12:51:47Z</time>
+      </trkpt>
+      <trkpt lat="+053.27327" lon="-001.61478">
+        <ele>+0341.0</ele>
+        <time>2015-08-07T12:52:00Z</time>
+      </trkpt>
+      <trkpt lat="+053.27317" lon="-001.61475">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:52:12Z</time>
+      </trkpt>
+      <trkpt lat="+053.27313" lon="-001.61489">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:52:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.27302" lon="-001.61493">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T12:53:03Z</time>
+      </trkpt>
+      <trkpt lat="+053.27286" lon="-001.61484">
+        <ele>+0342.0</ele>
+        <time>2015-08-07T12:57:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.27272" lon="-001.61474">
+        <ele>+0342.0</ele>
+        <time>2015-08-07T12:57:25Z</time>
+      </trkpt>
+      <trkpt lat="+053.27263" lon="-001.61458">
+        <ele>+0343.0</ele>
+        <time>2015-08-07T12:57:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.27251" lon="-001.61447">
+        <ele>+0343.0</ele>
+        <time>2015-08-07T12:57:56Z</time>
+      </trkpt>
+      <trkpt lat="+053.27240" lon="-001.61437">
+        <ele>+0343.0</ele>
+        <time>2015-08-07T12:58:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.27229" lon="-001.61425">
+        <ele>+0344.0</ele>
+        <time>2015-08-07T12:58:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.27220" lon="-001.61416">
+        <ele>+0344.0</ele>
+        <time>2015-08-07T12:58:33Z</time>
+      </trkpt>
+      <trkpt lat="+053.27211" lon="-001.61402">
+        <ele>+0346.0</ele>
+        <time>2015-08-07T12:58:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.27208" lon="-001.61391">
+        <ele>+0346.0</ele>
+        <time>2015-08-07T12:58:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.27202" lon="-001.61381">
+        <ele>+0345.0</ele>
+        <time>2015-08-07T12:59:11Z</time>
+      </trkpt>
+      <trkpt lat="+053.27193" lon="-001.61368">
+        <ele>+0343.0</ele>
+        <time>2015-08-07T12:59:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.27185" lon="-001.61355">
+        <ele>+0342.0</ele>
+        <time>2015-08-07T12:59:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.27177" lon="-001.61340">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T12:59:49Z</time>
+      </trkpt>
+      <trkpt lat="+053.27172" lon="-001.61321">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T13:00:01Z</time>
+      </trkpt>
+      <trkpt lat="+053.27164" lon="-001.61301">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T13:00:14Z</time>
+      </trkpt>
+      <trkpt lat="+053.27156" lon="-001.61284">
+        <ele>+0340.0</ele>
+        <time>2015-08-07T13:00:29Z</time>
+      </trkpt>
+      <trkpt lat="+053.27148" lon="-001.61268">
+        <ele>+0339.0</ele>
+        <time>2015-08-07T13:00:42Z</time>
+      </trkpt>
+      <trkpt lat="+053.27139" lon="-001.61254">
+        <ele>+0338.0</ele>
+        <time>2015-08-07T13:00:54Z</time>
+      </trkpt>
+      <trkpt lat="+053.27128" lon="-001.61244">
+        <ele>+0337.0</ele>
+        <time>2015-08-07T13:01:07Z</time>
+      </trkpt>
+      <trkpt lat="+053.27118" lon="-001.61232">
+        <ele>+0336.0</ele>
+        <time>2015-08-07T13:01:19Z</time>
+      </trkpt>
+      <trkpt lat="+053.27109" lon="-001.61218">
+        <ele>+0335.0</ele>
+        <time>2015-08-07T13:01:31Z</time>
+      </trkpt>
+      <trkpt lat="+053.27097" lon="-001.61199">
+        <ele>+0335.0</ele>
+        <time>2015-08-07T13:01:45Z</time>
+      </trkpt>
+      <trkpt lat="+053.27088" lon="-001.61184">
+        <ele>+0333.0</ele>
+        <time>2015-08-07T13:01:57Z</time>
+      </trkpt>
+      <trkpt lat="+053.27081" lon="-001.61169">
+        <ele>+0333.0</ele>
+        <time>2015-08-07T13:02:09Z</time>
+      </trkpt>
+      <trkpt lat="+053.27072" lon="-001.61157">
+        <ele>+0331.0</ele>
+        <time>2015-08-07T13:02:22Z</time>
+      </trkpt>
+      <trkpt lat="+053.27060" lon="-001.61142">
+        <ele>+0329.0</ele>
+        <time>2015-08-07T13:02:34Z</time>
+      </trkpt>
+      <trkpt lat="+053.27049" lon="-001.61130">
+        <ele>+0328.0</ele>
+        <time>2015-08-07T13:02:46Z</time>
+      </trkpt>
+      <trkpt lat="+053.27038" lon="-001.61117">
+        <ele>+0327.0</ele>
+        <time>2015-08-07T13:02:58Z</time>
+      </trkpt>
+      <trkpt lat="+053.27027" lon="-001.61107">
+        <ele>+0326.0</ele>
+        <time>2015-08-07T13:03:10Z</time>
+      </trkpt>
+      <trkpt lat="+053.27017" lon="-001.61093">
+        <ele>+0324.0</ele>
+        <time>2015-08-07T13:03:23Z</time>
+      </trkpt>
+      <trkpt lat="+053.27007" lon="-001.61081">
+        <ele>+0325.0</ele>
+        <time>2015-08-07T13:03:35Z</time>
+      </trkpt>
+      <trkpt lat="+053.26994" lon="-001.61069">
+        <ele>+0323.0</ele>
+        <time>2015-08-07T13:03:49Z</time>
+      </trkpt>
+      <trkpt lat="+053.26984" lon="-001.61057">
+        <ele>+0323.0</ele>
+        <time>2015-08-07T13:04:02Z</time>
+      </trkpt>
+      <trkpt lat="+053.26972" lon="-001.61044">
+        <ele>+0322.0</ele>
+        <time>2015-08-07T13:04:16Z</time>
+      </trkpt>
+      <trkpt lat="+053.26962" lon="-001.61033">
+        <ele>+0321.0</ele>
+        <time>2015-08-07T13:04:28Z</time>
+      </trkpt>
+      <trkpt lat="+053.26952" lon="-001.61021">
+        <ele>+0320.0</ele>
+        <time>2015-08-07T13:04:43Z</time>
+      </trkpt>
+      <trkpt lat="+053.26944" lon="-001.61004">
+        <ele>+0319.0</ele>
+        <time>2015-08-07T13:04:55Z</time>
+      </trkpt>
+      <trkpt lat="+053.26935" lon="-001.60991">
+        <ele>+0319.0</ele>
+        <time>2015-08-07T13:05:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.26927" lon="-001.60977">
+        <ele>+0319.0</ele>
+        <time>2015-08-07T13:05:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.26923" lon="-001.60972">
+        <ele>+0318.0</ele>
+        <time>2015-08-07T13:05:37Z</time>
+      </trkpt>
+      <trkpt lat="+053.26919" lon="-001.60960">
+        <ele>+0316.0</ele>
+        <time>2015-08-07T13:05:51Z</time>
+      </trkpt>
+      <trkpt lat="+053.26906" lon="-001.60962">
+        <ele>+0313.0</ele>
+        <time>2015-08-07T13:06:08Z</time>
+      </trkpt>
+      <trkpt lat="+053.26895" lon="-001.60956">
+        <ele>+0311.0</ele>
+        <time>2015-08-07T13:06:20Z</time>
+      </trkpt>
+      <trkpt lat="+053.26886" lon="-001.60940">
+        <ele>+0309.0</ele>
+        <time>2015-08-07T13:06:32Z</time>
+      </trkpt>
+      <trkpt lat="+053.26879" lon="-001.60921">
+        <ele>+0309.0</ele>
+        <time>2015-08-07T13:06:44Z</time>
+      </trkpt>
+      <trkpt lat="+053.26877" lon="-001.60898">
+        <ele>+0310.0</ele>
+        <time>2015-08-07T13:06:59Z</time>
+      </trkpt>
+      <trkpt lat="+053.26879" lon="-001.60878">
+        <ele>+0311.0</ele>
+        <time>2015-08-07T13:07:12Z</time>
+      </trkpt>
+      <trkpt lat="+053.26883" lon="-001.60854">
+        <ele>+0313.0</ele>
+        <time>2015-08-07T13:07:27Z</time>
+      </trkpt>
+      <trkpt lat="+053.26874" lon="-001.60838">
+        <ele>+0309.0</ele>
+        <time>2015-08-07T13:07:50Z</time>
+      </trkpt>
+      <trkpt lat="+053.26874" lon="-001.60818">
+        <ele>+0308.0</ele>
+        <time>2015-08-07T13:08:06Z</time>
+      </trkpt>
+      <trkpt lat="+053.26873" lon="-001.60810">
+        <ele>+0310.0</ele>
+        <time>2015-08-07T13:08:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
+latitude|longitude|elevation|timestamp|easting|northing|ngr
++053.29690|-001.61444|+0273.0|2015-08-07T11:19:56Z|425795|377842|SK25797784
++053.29686|-001.61450|+0282.0|2015-08-07T11:19:57Z|425791|377837|SK25797783
++053.29674|-001.61465|+0295.0|2015-08-07T11:20:10Z|425781|377824|SK25787782
++053.29663|-001.61479|+0299.0|2015-08-07T11:20:23Z|425771|377811|SK25777781
++053.29653|-001.61491|+0300.0|2015-08-07T11:20:35Z|425763|377800|SK25767780
++053.29642|-001.61501|+0301.0|2015-08-07T11:20:47Z|425757|377788|SK25757778
++053.29629|-001.61515|+0301.0|2015-08-07T11:21:02Z|425748|377774|SK25747777
++053.29616|-001.61529|+0300.0|2015-08-07T11:21:16Z|425738|377760|SK25737776
++053.29605|-001.61539|+0300.0|2015-08-07T11:21:28Z|425732|377748|SK25737774
++053.29596|-001.61547|+0300.0|2015-08-07T11:21:40Z|425726|377737|SK25727773
++053.29584|-001.61559|+0301.0|2015-08-07T11:21:52Z|425719|377724|SK25717772
++053.29571|-001.61573|+0298.0|2015-08-07T11:22:20Z|425710|377709|SK25717770
++053.29578|-001.61593|+0299.0|2015-08-07T11:22:33Z|425696|377716|SK25697771
++053.29584|-001.61614|+0297.0|2015-08-07T11:22:48Z|425682|377724|SK25687772
++053.29590|-001.61638|+0294.0|2015-08-07T11:23:01Z|425666|377730|SK25667773
++053.29595|-001.61657|+0292.0|2015-08-07T11:23:13Z|425653|377736|SK25657773
++053.29602|-001.61682|+0290.0|2015-08-07T11:23:27Z|425636|377743|SK25637774
++053.29607|-001.61704|+0289.0|2015-08-07T11:23:39Z|425622|377749|SK25627774
++053.29612|-001.61723|+0287.0|2015-08-07T11:23:51Z|425609|377754|SK25607775
++053.29615|-001.61743|+0284.0|2015-08-07T11:24:03Z|425596|377758|SK25597775
++053.29618|-001.61765|+0279.0|2015-08-07T11:24:15Z|425581|377761|SK25587776
++053.29622|-001.61784|+0276.0|2015-08-07T11:24:27Z|425568|377766|SK25567776
++053.29615|-001.61798|+0274.0|2015-08-07T11:24:40Z|425559|377757|SK25557775
++053.29604|-001.61799|+0272.0|2015-08-07T11:24:52Z|425559|377745|SK25557774
++053.29591|-001.61799|+0270.0|2015-08-07T11:25:05Z|425559|377730|SK25557773
++053.29580|-001.61800|+0269.0|2015-08-07T11:25:17Z|425558|377719|SK25557771
++053.29565|-001.61808|+0269.0|2015-08-07T11:25:31Z|425553|377702|SK25557770
++053.29551|-001.61814|+0269.0|2015-08-07T11:25:44Z|425549|377687|SK25547768
++053.29541|-001.61821|+0269.0|2015-08-07T11:25:56Z|425544|377674|SK25547767
++053.29530|-001.61832|+0271.0|2015-08-07T11:26:11Z|425537|377663|SK25537766
++053.29522|-001.61847|+0270.0|2015-08-07T11:26:26Z|425527|377653|SK25527765
++053.29513|-001.61856|+0269.0|2015-08-07T11:26:39Z|425521|377644|SK25527764
++053.29501|-001.61862|+0266.0|2015-08-07T11:26:53Z|425517|377631|SK25517763
++053.29489|-001.61861|+0264.0|2015-08-07T11:27:12Z|425518|377617|SK25517761
++053.29477|-001.61861|+0263.0|2015-08-07T11:27:33Z|425518|377604|SK25517760
++053.29470|-001.61858|+0264.0|2015-08-07T11:27:50Z|425520|377596|SK25527759
++053.29462|-001.61860|+0264.0|2015-08-07T11:28:10Z|425519|377587|SK25517758
++053.29449|-001.61877|+0261.0|2015-08-07T11:28:41Z|425508|377573|SK25507757
++053.29443|-001.61891|+0263.0|2015-08-07T11:29:04Z|425498|377566|SK25497756
++053.29432|-001.61913|+0269.0|2015-08-07T11:29:59Z|425484|377553|SK25487755
++053.29438|-001.61923|+0269.0|2015-08-07T11:30:11Z|425477|377560|SK25477756
++053.29442|-001.61935|+0270.0|2015-08-07T11:30:23Z|425469|377564|SK25467756
++053.29448|-001.61949|+0270.0|2015-08-07T11:30:35Z|425460|377571|SK25467757
++053.29456|-001.61960|+0269.0|2015-08-07T11:30:47Z|425452|377580|SK25457758
++053.29466|-001.61978|+0270.0|2015-08-07T11:31:10Z|425440|377591|SK25447759
++053.29476|-001.61990|+0270.0|2015-08-07T11:31:22Z|425432|377601|SK25437760
++053.29480|-001.62009|+0270.0|2015-08-07T11:31:35Z|425420|377607|SK25427760
++053.29483|-001.62025|+0269.0|2015-08-07T11:31:47Z|425409|377610|SK25407761
++053.29483|-001.62042|+0268.0|2015-08-07T11:32:00Z|425397|377610|SK25397761
++053.29480|-001.62058|+0268.0|2015-08-07T11:32:12Z|425387|377606|SK25387760
++053.29474|-001.62073|+0269.0|2015-08-07T11:32:25Z|425377|377600|SK25377760
++053.29468|-001.62085|+0270.0|2015-08-07T11:32:38Z|425369|377593|SK25367759
++053.29462|-001.62099|+0271.0|2015-08-07T11:32:53Z|425360|377586|SK25367758
++053.29449|-001.62107|+0273.0|2015-08-07T11:33:07Z|425354|377572|SK25357757
++053.29438|-001.62116|+0275.0|2015-08-07T11:33:21Z|425348|377559|SK25347755
++053.29427|-001.62124|+0275.0|2015-08-07T11:33:34Z|425343|377548|SK25347754
++053.29417|-001.62129|+0274.0|2015-08-07T11:33:46Z|425340|377536|SK25347753
++053.29406|-001.62137|+0273.0|2015-08-07T11:33:58Z|425335|377523|SK25337752
++053.29395|-001.62139|+0273.0|2015-08-07T11:34:11Z|425333|377511|SK25337751
++053.29383|-001.62138|+0277.0|2015-08-07T11:34:23Z|425334|377498|SK25337749
++053.29373|-001.62137|+0281.0|2015-08-07T11:34:35Z|425335|377487|SK25337748
++053.29362|-001.62138|+0282.0|2015-08-07T11:34:47Z|425334|377474|SK25337747
++053.29351|-001.62140|+0280.0|2015-08-07T11:34:59Z|425333|377463|SK25337746
++053.29340|-001.62142|+0281.0|2015-08-07T11:35:13Z|425331|377451|SK25337745
++053.29328|-001.62151|+0281.0|2015-08-07T11:35:26Z|425326|377437|SK25327743
++053.29318|-001.62161|+0281.0|2015-08-07T11:35:38Z|425319|377426|SK25317742
++053.29305|-001.62174|+0280.0|2015-08-07T11:35:52Z|425311|377411|SK25317741
++053.29293|-001.62188|+0280.0|2015-08-07T11:36:07Z|425301|377398|SK25307739
++053.29283|-001.62199|+0282.0|2015-08-07T11:36:19Z|425294|377387|SK25297738
++053.29274|-001.62210|+0282.0|2015-08-07T11:36:32Z|425286|377377|SK25287737
++053.29263|-001.62221|+0282.0|2015-08-07T11:36:44Z|425279|377364|SK25277736
++053.29250|-001.62231|+0282.0|2015-08-07T11:36:57Z|425273|377350|SK25277735
++053.29240|-001.62236|+0281.0|2015-08-07T11:37:09Z|425269|377338|SK25267733
++053.29225|-001.62245|+0279.0|2015-08-07T11:37:22Z|425264|377322|SK25267732
++053.29214|-001.62253|+0278.0|2015-08-07T11:37:34Z|425258|377310|SK25257731
++053.29199|-001.62260|+0277.0|2015-08-07T11:37:47Z|425254|377293|SK25257729
++053.29187|-001.62266|+0276.0|2015-08-07T11:37:59Z|425250|377280|SK25257728
++053.29175|-001.62273|+0277.0|2015-08-07T11:38:11Z|425245|377266|SK25247726
++053.29165|-001.62283|+0280.0|2015-08-07T11:38:23Z|425239|377256|SK25237725
++053.29156|-001.62304|+0282.0|2015-08-07T11:38:37Z|425225|377245|SK25227724
++053.29150|-001.62323|+0282.0|2015-08-07T11:38:50Z|425212|377238|SK25217723
++053.29143|-001.62340|+0282.0|2015-08-07T11:39:02Z|425201|377230|SK25207723
++053.29134|-001.62357|+0282.0|2015-08-07T11:39:17Z|425190|377220|SK25197722
++053.29124|-001.62372|+0282.0|2015-08-07T11:39:30Z|425179|377209|SK25177720
++053.29113|-001.62388|+0281.0|2015-08-07T11:39:44Z|425169|377196|SK25167719
++053.29101|-001.62402|+0282.0|2015-08-07T11:39:57Z|425160|377184|SK25167718
++053.29093|-001.62414|+0282.0|2015-08-07T11:40:09Z|425152|377175|SK25157717
++053.29082|-001.62429|+0281.0|2015-08-07T11:40:21Z|425142|377163|SK25147716
++053.29074|-001.62447|+0280.0|2015-08-07T11:40:34Z|425130|377153|SK25137715
++053.29066|-001.62461|+0281.0|2015-08-07T11:40:46Z|425120|377144|SK25127714
++053.29058|-001.62478|+0283.0|2015-08-07T11:40:58Z|425109|377135|SK25107713
++053.29050|-001.62494|+0284.0|2015-08-07T11:41:11Z|425098|377126|SK25097712
++053.29042|-001.62514|+0285.0|2015-08-07T11:41:23Z|425085|377118|SK25087711
++053.29036|-001.62535|+0284.0|2015-08-07T11:41:36Z|425071|377111|SK25077711
++053.29031|-001.62551|+0285.0|2015-08-07T11:41:48Z|425061|377105|SK25067710
++053.29025|-001.62572|+0284.0|2015-08-07T11:42:00Z|425047|377098|SK25047709
++053.29016|-001.62594|+0281.0|2015-08-07T11:42:14Z|425032|377088|SK25037708
++053.29009|-001.62610|+0279.0|2015-08-07T11:42:26Z|425022|377080|SK25027708
++053.28999|-001.62628|+0278.0|2015-08-07T11:42:40Z|425010|377069|SK25017706
++053.28988|-001.62634|+0278.0|2015-08-07T11:42:53Z|425006|377057|SK25007705
++053.28976|-001.62636|+0277.0|2015-08-07T11:43:06Z|425004|377043|SK25007704
++053.28963|-001.62634|+0277.0|2015-08-07T11:43:19Z|425006|377029|SK25007702
++053.28951|-001.62628|+0277.0|2015-08-07T11:43:33Z|425010|377015|SK25017701
++053.28937|-001.62620|+0278.0|2015-08-07T11:43:47Z|425015|377000|SK25017700
++053.28922|-001.62611|+0278.0|2015-08-07T11:44:02Z|425021|376984|SK25027698
++053.28909|-001.62610|+0277.0|2015-08-07T11:44:14Z|425022|376969|SK25027696
++053.28898|-001.62609|+0275.0|2015-08-07T11:44:27Z|425023|376957|SK25027695
++053.28892|-001.62614|+0276.0|2015-08-07T11:44:39Z|425019|376950|SK25017695
++053.28883|-001.62631|+0276.0|2015-08-07T11:44:51Z|425008|376940|SK25007694
++053.28873|-001.62645|+0277.0|2015-08-07T11:45:04Z|424999|376929|SK24997692
++053.28863|-001.62659|+0278.0|2015-08-07T11:45:17Z|424990|376918|SK24997691
++053.28853|-001.62673|+0277.0|2015-08-07T11:45:30Z|424981|376907|SK24987690
++053.28845|-001.62685|+0275.0|2015-08-07T11:45:43Z|424973|376898|SK24977689
++053.28833|-001.62695|+0274.0|2015-08-07T11:45:56Z|424966|376884|SK24967688
++053.28823|-001.62705|+0276.0|2015-08-07T11:46:45Z|424959|376873|SK24957687
++053.28814|-001.62711|+0276.0|2015-08-07T11:46:57Z|424955|376863|SK24957686
++053.28801|-001.62719|+0277.0|2015-08-07T11:47:10Z|424950|376849|SK24957684
++053.28791|-001.62727|+0277.0|2015-08-07T11:47:22Z|424945|376837|SK24947683
++053.28779|-001.62731|+0276.0|2015-08-07T11:47:34Z|424942|376824|SK24947682
++053.28768|-001.62736|+0276.0|2015-08-07T11:47:47Z|424939|376812|SK24937681
++053.28757|-001.62743|+0275.0|2015-08-07T11:47:59Z|424935|376799|SK24937679
++053.28746|-001.62749|+0276.0|2015-08-07T11:48:12Z|424930|376788|SK24937678
++053.28734|-001.62756|+0275.0|2015-08-07T11:48:24Z|424926|376774|SK24927677
++053.28722|-001.62762|+0275.0|2015-08-07T11:48:36Z|424922|376761|SK24927676
++053.28712|-001.62768|+0277.0|2015-08-07T11:48:49Z|424918|376749|SK24917674
++053.28700|-001.62776|+0277.0|2015-08-07T11:49:02Z|424913|376736|SK24917673
++053.28688|-001.62781|+0277.0|2015-08-07T11:49:15Z|424910|376723|SK24917672
++053.28679|-001.62786|+0278.0|2015-08-07T11:49:27Z|424907|376712|SK24907671
++053.28670|-001.62793|+0279.0|2015-08-07T11:49:39Z|424902|376702|SK24907670
++053.28659|-001.62798|+0279.0|2015-08-07T11:49:51Z|424898|376691|SK24897669
++053.28648|-001.62806|+0280.0|2015-08-07T11:50:04Z|424893|376678|SK24897667
++053.28638|-001.62817|+0280.0|2015-08-07T11:50:17Z|424886|376666|SK24887666
++053.28628|-001.62826|+0281.0|2015-08-07T11:50:29Z|424880|376656|SK24887665
++053.28618|-001.62834|+0280.0|2015-08-07T11:50:41Z|424874|376644|SK24877664
++053.28608|-001.62842|+0279.0|2015-08-07T11:50:53Z|424869|376634|SK24867663
++053.28604|-001.62854|+0277.0|2015-08-07T11:54:36Z|424861|376629|SK24867662
++053.28601|-001.62852|+0280.0|2015-08-07T11:57:04Z|424863|376625|SK24867662
++053.28595|-001.62857|+0280.0|2015-08-07T11:57:17Z|424859|376619|SK24857661
++053.28585|-001.62858|+0280.0|2015-08-07T11:57:29Z|424859|376608|SK24857660
++053.28576|-001.62856|+0280.0|2015-08-07T11:57:41Z|424860|376598|SK24867659
++053.28564|-001.62850|+0281.0|2015-08-07T11:57:54Z|424864|376585|SK24867658
++053.28553|-001.62843|+0281.0|2015-08-07T11:58:06Z|424869|376573|SK24867657
++053.28543|-001.62836|+0282.0|2015-08-07T11:58:18Z|424874|376561|SK24877656
++053.28535|-001.62829|+0282.0|2015-08-07T11:58:30Z|424878|376552|SK24877655
++053.28527|-001.62823|+0282.0|2015-08-07T11:58:42Z|424883|376543|SK24887654
++053.28516|-001.62815|+0283.0|2015-08-07T11:58:54Z|424888|376531|SK24887653
++053.28507|-001.62809|+0283.0|2015-08-07T11:59:06Z|424892|376521|SK24897652
++053.28498|-001.62804|+0283.0|2015-08-07T11:59:18Z|424895|376511|SK24897651
++053.28491|-001.62797|+0282.0|2015-08-07T11:59:30Z|424900|376503|SK24907650
++053.28483|-001.62790|+0282.0|2015-08-07T11:59:42Z|424905|376494|SK24907649
++053.28476|-001.62785|+0282.0|2015-08-07T11:59:54Z|424908|376486|SK24907648
++053.28467|-001.62781|+0282.0|2015-08-07T12:00:06Z|424911|376477|SK24917647
++053.28458|-001.62777|+0282.0|2015-08-07T12:00:18Z|424913|376466|SK24917646
++053.28449|-001.62775|+0283.0|2015-08-07T12:00:30Z|424915|376457|SK24917645
++053.28440|-001.62774|+0283.0|2015-08-07T12:00:42Z|424915|376446|SK24917644
++053.28430|-001.62774|+0284.0|2015-08-07T12:00:54Z|424916|376436|SK24917643
++053.28421|-001.62773|+0284.0|2015-08-07T12:01:06Z|424916|376426|SK24917642
++053.28411|-001.62772|+0284.0|2015-08-07T12:01:18Z|424917|376415|SK24917641
++053.28400|-001.62772|+0285.0|2015-08-07T12:01:31Z|424917|376402|SK24917640
++053.28390|-001.62773|+0285.0|2015-08-07T12:01:43Z|424917|376391|SK24917639
++053.28379|-001.62768|+0285.0|2015-08-07T12:01:55Z|424920|376379|SK24927637
++053.28374|-001.62765|+0285.0|2015-08-07T12:02:08Z|424922|376373|SK24927637
++053.28368|-001.62760|+0285.0|2015-08-07T12:05:44Z|424925|376366|SK24927636
++053.28360|-001.62754|+0285.0|2015-08-07T12:05:56Z|424930|376358|SK24937635
++053.28354|-001.62749|+0285.0|2015-08-07T12:06:08Z|424933|376351|SK24937635
++053.28346|-001.62742|+0285.0|2015-08-07T12:06:20Z|424937|376343|SK24937634
++053.28339|-001.62736|+0286.0|2015-08-07T12:06:32Z|424942|376335|SK24947633
++053.28333|-001.62730|+0287.0|2015-08-07T12:06:44Z|424945|376328|SK24947632
++053.28324|-001.62722|+0287.0|2015-08-07T12:06:56Z|424951|376318|SK24957631
++053.28316|-001.62712|+0288.0|2015-08-07T12:07:08Z|424957|376309|SK24957630
++053.28306|-001.62703|+0288.0|2015-08-07T12:07:20Z|424964|376298|SK24967629
++053.28298|-001.62692|+0288.0|2015-08-07T12:07:32Z|424971|376288|SK24977628
++053.28289|-001.62684|+0289.0|2015-08-07T12:07:44Z|424977|376279|SK24977627
++053.28280|-001.62674|+0288.0|2015-08-07T12:07:56Z|424983|376269|SK24987626
++053.28272|-001.62663|+0288.0|2015-08-07T12:08:08Z|424990|376260|SK24997626
++053.28265|-001.62655|+0287.0|2015-08-07T12:08:20Z|424996|376253|SK24997625
++053.28266|-001.62648|+0287.0|2015-08-07T12:08:56Z|425001|376254|SK25007625
++053.28257|-001.62639|+0288.0|2015-08-07T12:09:42Z|425007|376243|SK25007624
++053.28249|-001.62629|+0289.0|2015-08-07T12:09:54Z|425013|376235|SK25017623
++053.28242|-001.62620|+0289.0|2015-08-07T12:10:06Z|425019|376227|SK25017622
++053.28236|-001.62613|+0288.0|2015-08-07T12:10:18Z|425024|376221|SK25027622
++053.28230|-001.62605|+0288.0|2015-08-07T12:10:30Z|425030|376214|SK25037621
++053.28228|-001.62617|+0289.0|2015-08-07T12:11:06Z|425021|376211|SK25027621
++053.28228|-001.62603|+0289.0|2015-08-07T12:11:30Z|425031|376211|SK25037621
++053.28221|-001.62592|+0289.0|2015-08-07T12:11:54Z|425038|376204|SK25037620
++053.28215|-001.62581|+0289.0|2015-08-07T12:12:06Z|425046|376197|SK25047619
++053.28209|-001.62572|+0289.0|2015-08-07T12:12:18Z|425051|376190|SK25057619
++053.28201|-001.62563|+0289.0|2015-08-07T12:12:30Z|425058|376181|SK25057618
++053.28193|-001.62552|+0288.0|2015-08-07T12:12:42Z|425065|376173|SK25067617
++053.28185|-001.62546|+0288.0|2015-08-07T12:12:54Z|425069|376164|SK25067616
++053.28177|-001.62541|+0289.0|2015-08-07T12:13:06Z|425073|376155|SK25077615
++053.28169|-001.62537|+0290.0|2015-08-07T12:13:18Z|425075|376146|SK25077614
++053.28159|-001.62536|+0291.0|2015-08-07T12:13:30Z|425076|376135|SK25077613
++053.28151|-001.62538|+0292.0|2015-08-07T12:13:42Z|425075|376126|SK25077612
++053.28139|-001.62540|+0292.0|2015-08-07T12:13:54Z|425073|376113|SK25077611
++053.28128|-001.62541|+0293.0|2015-08-07T12:14:06Z|425073|376101|SK25077610
++053.28119|-001.62541|+0294.0|2015-08-07T12:14:18Z|425073|376091|SK25077609
++053.28111|-001.62537|+0293.0|2015-08-07T12:14:30Z|425075|376082|SK25077608
++053.28102|-001.62535|+0292.0|2015-08-07T12:14:42Z|425077|376072|SK25077607
++053.28094|-001.62527|+0292.0|2015-08-07T12:14:54Z|425082|376063|SK25087606
++053.28089|-001.62521|+0292.0|2015-08-07T12:15:06Z|425086|376057|SK25087605
++053.28093|-001.62509|+0289.0|2015-08-07T12:17:29Z|425094|376062|SK25097606
++053.28088|-001.62501|+0286.0|2015-08-07T12:17:50Z|425100|376056|SK25107605
++053.28078|-001.62500|+0289.0|2015-08-07T12:18:02Z|425101|376045|SK25107604
++053.28066|-001.62490|+0291.0|2015-08-07T12:18:14Z|425107|376032|SK25107603
++053.28057|-001.62482|+0291.0|2015-08-07T12:18:27Z|425113|376021|SK25117602
++053.28046|-001.62472|+0292.0|2015-08-07T12:18:39Z|425119|376010|SK25117601
++053.28037|-001.62464|+0291.0|2015-08-07T12:18:51Z|425125|376000|SK25127600
++053.28029|-001.62453|+0291.0|2015-08-07T12:19:04Z|425132|375991|SK25137599
++053.28021|-001.62443|+0293.0|2015-08-07T12:19:16Z|425139|375982|SK25137598
++053.28016|-001.62437|+0296.0|2015-08-07T12:21:26Z|425143|375976|SK25147597
++053.28010|-001.62428|+0297.0|2015-08-07T12:21:39Z|425149|375970|SK25147597
++053.28004|-001.62418|+0297.0|2015-08-07T12:21:51Z|425156|375963|SK25157596
++053.27997|-001.62409|+0297.0|2015-08-07T12:22:03Z|425162|375955|SK25167595
++053.27989|-001.62400|+0297.0|2015-08-07T12:22:16Z|425167|375946|SK25167594
++053.27982|-001.62393|+0296.0|2015-08-07T12:22:28Z|425172|375939|SK25177593
++053.27976|-001.62385|+0296.0|2015-08-07T12:22:41Z|425178|375932|SK25177593
++053.27971|-001.62374|+0296.0|2015-08-07T12:22:53Z|425185|375926|SK25187592
++053.27967|-001.62365|+0297.0|2015-08-07T12:23:05Z|425191|375922|SK25197592
++053.27961|-001.62354|+0298.0|2015-08-07T12:23:18Z|425198|375916|SK25197591
++053.27958|-001.62340|+0300.0|2015-08-07T12:23:30Z|425208|375912|SK25207591
++053.27956|-001.62325|+0300.0|2015-08-07T12:23:43Z|425218|375909|SK25217590
++053.27954|-001.62311|+0300.0|2015-08-07T12:23:55Z|425227|375908|SK25227590
++053.27954|-001.62295|+0301.0|2015-08-07T12:24:07Z|425238|375908|SK25237590
++053.27953|-001.62284|+0301.0|2015-08-07T12:24:20Z|425245|375906|SK25247590
++053.27949|-001.62271|+0302.0|2015-08-07T12:24:32Z|425254|375902|SK25257590
++053.27946|-001.62258|+0302.0|2015-08-07T12:24:44Z|425262|375899|SK25267589
++053.27942|-001.62248|+0303.0|2015-08-07T12:24:57Z|425269|375894|SK25267589
++053.27939|-001.62238|+0303.0|2015-08-07T12:25:09Z|425276|375891|SK25277589
++053.27934|-001.62229|+0303.0|2015-08-07T12:25:21Z|425282|375885|SK25287588
++053.27928|-001.62220|+0303.0|2015-08-07T12:25:34Z|425288|375879|SK25287587
++053.27923|-001.62211|+0305.0|2015-08-07T12:25:46Z|425294|375873|SK25297587
++053.27914|-001.62204|+0306.0|2015-08-07T12:25:59Z|425299|375864|SK25297586
++053.27907|-001.62196|+0307.0|2015-08-07T12:26:11Z|425304|375856|SK25307585
++053.27903|-001.62192|+0307.0|2015-08-07T12:26:30Z|425307|375851|SK25307585
++053.27895|-001.62185|+0307.0|2015-08-07T12:26:42Z|425312|375842|SK25317584
++053.27887|-001.62180|+0308.0|2015-08-07T12:26:54Z|425315|375833|SK25317583
++053.27879|-001.62172|+0308.0|2015-08-07T12:27:07Z|425320|375825|SK25327582
++053.27872|-001.62162|+0309.0|2015-08-07T12:27:19Z|425327|375817|SK25327581
++053.27865|-001.62147|+0309.0|2015-08-07T12:27:38Z|425337|375809|SK25337580
++053.27860|-001.62132|+0312.0|2015-08-07T12:27:54Z|425347|375803|SK25347580
++053.27856|-001.62123|+0314.0|2015-08-07T12:28:20Z|425353|375799|SK25357579
++053.27848|-001.62112|+0313.0|2015-08-07T12:28:32Z|425360|375791|SK25367579
++053.27841|-001.62103|+0312.0|2015-08-07T12:28:44Z|425366|375783|SK25367578
++053.27833|-001.62100|+0313.0|2015-08-07T12:28:56Z|425369|375773|SK25367577
++053.27825|-001.62095|+0315.0|2015-08-07T12:29:08Z|425372|375765|SK25377576
++053.27817|-001.62088|+0315.0|2015-08-07T12:29:20Z|425377|375756|SK25377575
++053.27810|-001.62080|+0317.0|2015-08-07T12:29:33Z|425382|375749|SK25387574
++053.27804|-001.62077|+0317.0|2015-08-07T12:29:46Z|425384|375742|SK25387574
++053.27798|-001.62084|+0317.0|2015-08-07T12:29:58Z|425379|375735|SK25377573
++053.27785|-001.62099|+0317.0|2015-08-07T12:30:25Z|425370|375721|SK25377572
++053.27771|-001.62099|+0321.0|2015-08-07T12:31:19Z|425369|375705|SK25367570
++053.27760|-001.62087|+0323.0|2015-08-07T12:31:49Z|425378|375692|SK25377569
++053.27754|-001.62071|+0324.0|2015-08-07T12:32:25Z|425389|375686|SK25387568
++053.27746|-001.62063|+0326.0|2015-08-07T12:32:37Z|425393|375677|SK25397567
++053.27742|-001.62056|+0326.0|2015-08-07T12:33:18Z|425399|375673|SK25397567
++053.27753|-001.62058|+0327.0|2015-08-07T12:33:31Z|425397|375685|SK25397568
++053.27751|-001.62051|+0329.0|2015-08-07T12:33:52Z|425402|375683|SK25407568
++053.27741|-001.62038|+0331.0|2015-08-07T12:35:45Z|425411|375672|SK25417567
++053.27733|-001.62031|+0331.0|2015-08-07T12:35:59Z|425415|375662|SK25417566
++053.27735|-001.62036|+0332.0|2015-08-07T12:37:08Z|425412|375665|SK25417566
++053.27730|-001.62037|+0333.0|2015-08-07T12:37:20Z|425411|375659|SK25417565
++053.27737|-001.62019|+0330.0|2015-08-07T12:38:23Z|425423|375667|SK25427566
++053.27729|-001.62000|+0330.0|2015-08-07T12:38:39Z|425436|375659|SK25437565
++053.27716|-001.61992|+0331.0|2015-08-07T12:38:54Z|425441|375643|SK25447564
++053.27708|-001.61986|+0331.0|2015-08-07T12:39:14Z|425445|375635|SK25447563
++053.27702|-001.61981|+0331.0|2015-08-07T12:39:27Z|425449|375629|SK25447562
++053.27698|-001.61972|+0333.0|2015-08-07T12:39:50Z|425455|375624|SK25457562
++053.27695|-001.61966|+0335.0|2015-08-07T12:40:09Z|425459|375621|SK25457562
++053.27689|-001.61960|+0336.0|2015-08-07T12:40:21Z|425462|375614|SK25467561
++053.27687|-001.61952|+0336.0|2015-08-07T12:40:33Z|425468|375612|SK25467561
++053.27685|-001.61941|+0336.0|2015-08-07T12:40:47Z|425475|375609|SK25477560
++053.27683|-001.61930|+0336.0|2015-08-07T12:41:02Z|425483|375608|SK25487560
++053.27680|-001.61923|+0337.0|2015-08-07T12:41:14Z|425487|375604|SK25487560
++053.27674|-001.61916|+0337.0|2015-08-07T12:41:26Z|425492|375597|SK25497559
++053.27669|-001.61906|+0337.0|2015-08-07T12:41:38Z|425499|375592|SK25497559
++053.27662|-001.61893|+0337.0|2015-08-07T12:41:51Z|425507|375584|SK25507558
++053.27656|-001.61883|+0337.0|2015-08-07T12:42:04Z|425514|375578|SK25517557
++053.27652|-001.61877|+0337.0|2015-08-07T12:42:17Z|425518|375573|SK25517557
++053.27643|-001.61868|+0337.0|2015-08-07T12:42:32Z|425525|375564|SK25527556
++053.27635|-001.61858|+0337.0|2015-08-07T12:42:47Z|425531|375554|SK25537555
++053.27628|-001.61849|+0337.0|2015-08-07T12:43:05Z|425537|375546|SK25537554
++053.27620|-001.61841|+0338.0|2015-08-07T12:43:17Z|425543|375537|SK25547553
++053.27615|-001.61830|+0338.0|2015-08-07T12:43:33Z|425550|375533|SK25557553
++053.27613|-001.61817|+0339.0|2015-08-07T12:43:46Z|425558|375530|SK25557553
++053.27605|-001.61803|+0338.0|2015-08-07T12:44:00Z|425568|375521|SK25567552
++053.27596|-001.61794|+0337.0|2015-08-07T12:44:14Z|425574|375511|SK25577551
++053.27588|-001.61791|+0337.0|2015-08-07T12:44:26Z|425576|375502|SK25577550
++053.27576|-001.61790|+0336.0|2015-08-07T12:44:39Z|425577|375490|SK25577549
++053.27566|-001.61783|+0336.0|2015-08-07T12:44:52Z|425581|375478|SK25587547
++053.27559|-001.61773|+0336.0|2015-08-07T12:45:04Z|425588|375470|SK25587547
++053.27549|-001.61762|+0336.0|2015-08-07T12:45:17Z|425596|375459|SK25597545
++053.27539|-001.61754|+0336.0|2015-08-07T12:45:31Z|425601|375448|SK25607544
++053.27531|-001.61738|+0336.0|2015-08-07T12:45:43Z|425612|375439|SK25617543
++053.27524|-001.61721|+0337.0|2015-08-07T12:45:59Z|425623|375431|SK25627543
++053.27514|-001.61715|+0337.0|2015-08-07T12:46:14Z|425627|375421|SK25627542
++053.27506|-001.61710|+0337.0|2015-08-07T12:46:26Z|425630|375411|SK25637541
++053.27500|-001.61698|+0338.0|2015-08-07T12:46:39Z|425638|375405|SK25637540
++053.27489|-001.61696|+0339.0|2015-08-07T12:46:51Z|425640|375393|SK25647539
++053.27479|-001.61691|+0339.0|2015-08-07T12:47:04Z|425643|375381|SK25647538
++053.27467|-001.61678|+0337.0|2015-08-07T12:47:24Z|425652|375369|SK25657536
++053.27459|-001.61672|+0336.0|2015-08-07T12:47:37Z|425656|375359|SK25657535
++053.27451|-001.61666|+0336.0|2015-08-07T12:47:51Z|425660|375350|SK25667535
++053.27443|-001.61654|+0337.0|2015-08-07T12:48:06Z|425668|375342|SK25667534
++053.27433|-001.61642|+0337.0|2015-08-07T12:48:22Z|425676|375331|SK25677533
++053.27426|-001.61630|+0338.0|2015-08-07T12:48:38Z|425685|375322|SK25687532
++053.27419|-001.61620|+0339.0|2015-08-07T12:48:51Z|425691|375315|SK25697531
++053.27412|-001.61608|+0340.0|2015-08-07T12:49:06Z|425699|375307|SK25697530
++053.27406|-001.61604|+0340.0|2015-08-07T12:49:18Z|425702|375300|SK25707530
++053.27399|-001.61598|+0340.0|2015-08-07T12:49:31Z|425706|375293|SK25707529
++053.27395|-001.61583|+0339.0|2015-08-07T12:49:45Z|425716|375289|SK25717528
++053.27389|-001.61567|+0338.0|2015-08-07T12:49:58Z|425727|375282|SK25727528
++053.27382|-001.61555|+0338.0|2015-08-07T12:50:10Z|425734|375274|SK25737527
++053.27373|-001.61543|+0338.0|2015-08-07T12:50:39Z|425743|375264|SK25747526
++053.27364|-001.61534|+0338.0|2015-08-07T12:50:52Z|425749|375255|SK25747525
++053.27357|-001.61522|+0339.0|2015-08-07T12:51:08Z|425757|375246|SK25757524
++053.27350|-001.61509|+0339.0|2015-08-07T12:51:22Z|425765|375238|SK25767523
++053.27343|-001.61496|+0339.0|2015-08-07T12:51:34Z|425774|375231|SK25777523
++053.27335|-001.61487|+0341.0|2015-08-07T12:51:47Z|425780|375222|SK25787522
++053.27327|-001.61478|+0341.0|2015-08-07T12:52:00Z|425787|375213|SK25787521
++053.27317|-001.61475|+0340.0|2015-08-07T12:52:12Z|425788|375202|SK25787520
++053.27313|-001.61489|+0340.0|2015-08-07T12:52:27Z|425779|375197|SK25777519
++053.27302|-001.61493|+0339.0|2015-08-07T12:53:03Z|425777|375185|SK25777518
++053.27286|-001.61484|+0342.0|2015-08-07T12:57:11Z|425783|375167|SK25787516
++053.27272|-001.61474|+0342.0|2015-08-07T12:57:25Z|425789|375152|SK25787515
++053.27263|-001.61458|+0343.0|2015-08-07T12:57:42Z|425800|375142|SK25807514
++053.27251|-001.61447|+0343.0|2015-08-07T12:57:56Z|425808|375128|SK25807512
++053.27240|-001.61437|+0343.0|2015-08-07T12:58:08Z|425814|375116|SK25817511
++053.27229|-001.61425|+0344.0|2015-08-07T12:58:20Z|425822|375105|SK25827510
++053.27220|-001.61416|+0344.0|2015-08-07T12:58:33Z|425829|375094|SK25827509
++053.27211|-001.61402|+0346.0|2015-08-07T12:58:46Z|425837|375085|SK25837508
++053.27208|-001.61391|+0346.0|2015-08-07T12:58:58Z|425845|375081|SK25847508
++053.27202|-001.61381|+0345.0|2015-08-07T12:59:11Z|425852|375075|SK25857507
++053.27193|-001.61368|+0343.0|2015-08-07T12:59:23Z|425860|375064|SK25867506
++053.27185|-001.61355|+0342.0|2015-08-07T12:59:35Z|425869|375055|SK25867505
++053.27177|-001.61340|+0340.0|2015-08-07T12:59:49Z|425879|375047|SK25877504
++053.27172|-001.61321|+0340.0|2015-08-07T13:00:01Z|425892|375041|SK25897504
++053.27164|-001.61301|+0340.0|2015-08-07T13:00:14Z|425905|375033|SK25907503
++053.27156|-001.61284|+0340.0|2015-08-07T13:00:29Z|425917|375024|SK25917502
++053.27148|-001.61268|+0339.0|2015-08-07T13:00:42Z|425927|375015|SK25927501
++053.27139|-001.61254|+0338.0|2015-08-07T13:00:54Z|425937|375005|SK25937500
++053.27128|-001.61244|+0337.0|2015-08-07T13:01:07Z|425944|374993|SK25947499
++053.27118|-001.61232|+0336.0|2015-08-07T13:01:19Z|425952|374982|SK25957498
++053.27109|-001.61218|+0335.0|2015-08-07T13:01:31Z|425961|374971|SK25967497
++053.27097|-001.61199|+0335.0|2015-08-07T13:01:45Z|425974|374958|SK25977495
++053.27088|-001.61184|+0333.0|2015-08-07T13:01:57Z|425983|374949|SK25987494
++053.27081|-001.61169|+0333.0|2015-08-07T13:02:09Z|425994|374940|SK25997494
++053.27072|-001.61157|+0331.0|2015-08-07T13:02:22Z|426002|374930|SK26007493
++053.27060|-001.61142|+0329.0|2015-08-07T13:02:34Z|426012|374918|SK26017491
++053.27049|-001.61130|+0328.0|2015-08-07T13:02:46Z|426020|374905|SK26027490
++053.27038|-001.61117|+0327.0|2015-08-07T13:02:58Z|426029|374893|SK26027489
++053.27027|-001.61107|+0326.0|2015-08-07T13:03:10Z|426036|374880|SK26037488
++053.27017|-001.61093|+0324.0|2015-08-07T13:03:23Z|426045|374870|SK26047487
++053.27007|-001.61081|+0325.0|2015-08-07T13:03:35Z|426053|374859|SK26057485
++053.26994|-001.61069|+0323.0|2015-08-07T13:03:49Z|426061|374844|SK26067484
++053.26984|-001.61057|+0323.0|2015-08-07T13:04:02Z|426069|374832|SK26067483
++053.26972|-001.61044|+0322.0|2015-08-07T13:04:16Z|426078|374820|SK26077482
++053.26962|-001.61033|+0321.0|2015-08-07T13:04:28Z|426086|374809|SK26087480
++053.26952|-001.61021|+0320.0|2015-08-07T13:04:43Z|426094|374797|SK26097479
++053.26944|-001.61004|+0319.0|2015-08-07T13:04:55Z|426105|374788|SK26107478
++053.26935|-001.60991|+0319.0|2015-08-07T13:05:08Z|426113|374779|SK26117477
++053.26927|-001.60977|+0319.0|2015-08-07T13:05:20Z|426123|374770|SK26127477
++053.26923|-001.60972|+0318.0|2015-08-07T13:05:37Z|426126|374765|SK26127476
++053.26919|-001.60960|+0316.0|2015-08-07T13:05:51Z|426134|374761|SK26137476
++053.26906|-001.60962|+0313.0|2015-08-07T13:06:08Z|426133|374746|SK26137474
++053.26895|-001.60956|+0311.0|2015-08-07T13:06:20Z|426137|374735|SK26137473
++053.26886|-001.60940|+0309.0|2015-08-07T13:06:32Z|426148|374725|SK26147472
++053.26879|-001.60921|+0309.0|2015-08-07T13:06:44Z|426161|374716|SK26167471
++053.26877|-001.60898|+0310.0|2015-08-07T13:06:59Z|426176|374714|SK26177471
++053.26879|-001.60878|+0311.0|2015-08-07T13:07:12Z|426189|374717|SK26187471
++053.26883|-001.60854|+0313.0|2015-08-07T13:07:27Z|426205|374722|SK26207472
++053.26874|-001.60838|+0309.0|2015-08-07T13:07:50Z|426216|374711|SK26217471
++053.26874|-001.60818|+0308.0|2015-08-07T13:08:06Z|426229|374712|SK26227471
++053.26873|-001.60810|+0310.0|2015-08-07T13:08:25Z|426235|374710|SK26237471
+
+GPX way-points processed  :  2903
+Way-points discarded (t)  :  2471
+Way-points retained       :   432
+Duplicate BSVs discarded  :    58
+BSVs retained             :   374
+Distance                  :     4.52km
+Max length delta          :    19.1m
+Max vertical delta        :   +13.0m
+Max time delta            :   234.0sec
+Height increments ignored :   392
+Adjusted height gain      :   101m
+Adjusted height loss      :    56m
+Start way-point elevation :   273.0m
+End way-point elevation   :   310.0m
+High way-point elevation  :   346.0m
+Low way-point elevation   :   261.0m
+Net height gain           :    37.0m
+Start-end separation (gpx):     3.16km
+Start timestamp           : 2015-08-07T11:19:56Z
+End timestamp             : 2015-08-07T13:08:25Z
+Elapsed time (H:M:S)      : 1:48:29
+
+GPX xml name tag          : User Track
+GPX xml desc tag          : Track 1
+Max Delta L (BSV)         :   400.0m
+Max Delta V (elevation)   :    30.0m
+Max Delta S (time)        :   250.0sec
+Reported height gain      :   207m
+Reported height loss      :   170m
+Precision (NGR)           :     8 digits
+Tolerance L (BSV)         :     5m
+Tolerance V (cumulative)  :    10m
+Tolerance T (way-point)   :    12sec
+
